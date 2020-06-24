@@ -1,6 +1,6 @@
 # pythonclassandtest
 
-This code and created for my personal learning and most of then will be wrong so dont conser copy or comparing it.
+This code and created for my personal learning and most of then will be wrong so dont consider coping or comparing it.
 
 newserveraccess.py
 
