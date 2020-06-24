@@ -1,0 +1,1 @@
+Jun 24 07:53:47 wp5 sshd[1733]: Accepted publickey for root from 12.66.194.80 port 40750 ssh2: RSA SHA256:AofZUMi5nv2AcUpX65HJmqiWZXEio3eA14QDqLWI2r0
